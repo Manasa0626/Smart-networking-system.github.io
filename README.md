@@ -33,8 +33,7 @@ Impact:
 
 ## 🌐 Find Me Online
 
-- [GitHub]()
-- [LinkedIn](https://www.linkedin.com/in/h-b-samruddi-5a0372306/)
+- [GitHub]( https://manasa0626.github.io/Smart-networking-system.github.io/)
 
 ## Portfolio Highlights
 
@@ -47,18 +46,18 @@ Impact:
 
 - Course Name: Algorithms Lab 
 - Course Code: 24ECAP202  
-- Name: H B Samruddi 
-- SRN: 02FE23BCI052  
-- Course Instructor: Priyanka Gavade  
+- Name: Manasa
+- SRN: 02FE23BCS153
+- Course Instructor: Prof.vaishali parab 
 - University: KLE TECHNOLOGICAL UNIVERSITY
-- Topic: Pollution-Free City
+- Topic: Smart Networking System
 
 ---
 
 ## 🎨 What Drives Me  
 - 💻 Constantly exploring new technologies and applying them creatively.  
 - 🤝 Helping others grow while improving myself every day.  
-- 📈 Maintaining a stellar GPA of 9.0 in my B.E. in Computer Science & Engineering (AI) program.  
+- 📈 Maintaining a stellar GPA of 9.0 in my B.E. in Computer Science & Engineering  program.  
 
 ---
 
